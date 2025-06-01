@@ -33,7 +33,7 @@ CloudStream is an extension-based multimedia player with tracking support. There
 + And more... 
 
 
-**Please don't create illegal extensions or use any that host any copyrighted media.** For more details about our stance on the DMCA and EUCD, you can read about it on our organization: [reCloudStream](https://github.com/betaae)
+**Please don't create illegal extensions or use any that host any copyrighted media.** For more details about our stance on the DMCA and EUCD, you can read about it on our organization: [CloudStream](https://github.com/betaae)
 
 #### Important Copyright Note: 
 
